@@ -19,31 +19,31 @@ const photos = [
   },
   {
     src: '/images/Wallpaper.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
     src: '/images/together1.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
     src: '/images/Motherly.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
     src: '/images/Goodnight.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
     src: '/images/eyes2.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
     src: '/images/eyes3.jpg',
-    caption: 'Mwaah',
+    caption: '',
   },
     {
-    src: '/images/.jpg',
-    caption: 'Mwaah',
+    src: '/images/together4.jpg',
+    caption: '',
   },
 ]
 
