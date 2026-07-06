@@ -2,24 +2,48 @@
 // Keep captions short — they sit under the photo, not over it.
 const photos = [
   {
-    src: '/images/photo-1.jpg',
-    caption: 'The',
+    src: '/images/together2.jpg',
+    caption: 'Infatuated',
   },
   {
-    src: '/images/photo-2.jpg',
-    caption: 'That',
+    src: '/images/together3.jpg',
+    caption: 'ecstatic',
   },
   {
-    src: '/images/photo-3.jpg',
-    caption: 'Your',
+    src: '/images/eyes.jpg',
+    caption: 'Serving!!',
   },
   {
-    src: '/images/photo-4.jpg',
+    src: '/images/Favs.jpg',
     caption: 'One of my favourites, honestly',
+  },
+  {
+    src: '/images/Wallpaper.jpg',
+    caption: 'Mwaah',
   },
     {
-    src: '/images/photo-4.jpg',
-    caption: 'One of my favourites, honestly',
+    src: '/images/together1.jpg',
+    caption: 'Mwaah',
+  },
+    {
+    src: '/images/Motherly.jpg',
+    caption: 'Mwaah',
+  },
+    {
+    src: '/images/Goodnight.jpg',
+    caption: 'Mwaah',
+  },
+    {
+    src: '/images/eyes2.jpg',
+    caption: 'Mwaah',
+  },
+    {
+    src: '/images/eyes3.jpg',
+    caption: 'Mwaah',
+  },
+    {
+    src: '/images/.jpg',
+    caption: 'Mwaah',
   },
 ]
 
